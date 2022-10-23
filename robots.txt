@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nft.eleusance.io/sitemap.xml
