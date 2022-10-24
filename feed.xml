@@ -3,12 +3,51 @@
     <title>eleusance - NFT Directory</title>
     <link href="https://nft.eleusance.io/feed.xml" rel="self" />
     <link href="https://nft.eleusance.io" />
-    <updated>2022-10-24T16:28:52+02:00</updated>
+    <updated>2022-10-24T22:19:15+02:00</updated>
     <author>
         <name>cndrm</name>
     </author>
     <id>https://nft.eleusance.io</id>
 
+    <entry>
+        <title>Starry Heavens</title>
+        <author>
+            <name>cndrm</name>
+        </author>
+        <link href="https://nft.eleusance.io/starry-heavens.html"/>
+        <id>https://nft.eleusance.io/starry-heavens.html</id>
+            <category term="Binance Smart Chain"/>
+
+        <updated>2022-10-24T22:19:15+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nft.eleusance.io/media/posts/29/Starry-heavens.jpg" alt="" />
+                    The Starry heavens of the universes are the most beautiful and the most wonderful things in the world. The universe&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nft.eleusance.io/media/posts/29/Starry-heavens.jpg" alt="" />
+                <blockquote>
+<p>The Starry heavens of the universes are the most beautiful and the most wonderful things in the world. The universe is an amazing place It is full of stars, planets, galaxies, and other celestial bodies. </p>
+</blockquote>
+<p> </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://nft.eleusance.io/media/posts/29/gallery/Starry-heavens.jpg" data-size="2560x2560"><img loading="lazy" src="https://nft.eleusance.io/media/posts/29/gallery/Starry-heavens-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+</div></div>
+<p> </p>
+<h5>NFT info:</h5>
+<ul style="list-style-type: square;">
+<li>Mint type: <strong>1/1</strong></li>
+<li>Initial price: <strong>5500 GLMS</strong></li>
+<li>Marketplace: <strong>Glimpse</strong></li>
+</ul>
+<p> </p>
+<p class="align-center"><a href="https://www.glimpsenft.com/nfts/6356f30938fc120013f99cb7" target="_blank" rel="noopener noreferrer" class="btn">Visit Marketplace</a></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Flower in Space</title>
         <author>
@@ -357,46 +396,6 @@
 </ul>
 <p> </p>
 <p class="align-center"><a href="https://solsea.io/n/3x4TCYEg8T375VQHjXcvj6rbTyDbMHzsoUBsYV6Ldnvn/" target="_blank" rel="noopener noreferrer" class="btn">Visit Marketplace</a></p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The approaching Storm</title>
-        <author>
-            <name>cndrm</name>
-        </author>
-        <link href="https://nft.eleusance.io/the-approaching-storm.html"/>
-        <id>https://nft.eleusance.io/the-approaching-storm.html</id>
-            <category term="Solana"/>
-
-        <updated>2022-10-24T16:05:15+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://nft.eleusance.io/media/posts/19/The-Approaching-Storm.jpg" alt="" />
-                    Isn't it always calm right before disaster strikes? Visit Marketplace
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://nft.eleusance.io/media/posts/19/The-Approaching-Storm.jpg" alt="" />
-                <blockquote>
-<p>Isn't it always calm right before disaster strikes?</p>
-</blockquote>
-<p> </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://nft.eleusance.io/media/posts/19/gallery/The-Approaching-Storm.jpg" data-size="1536x1536"><img loading="lazy" src="https://nft.eleusance.io/media/posts/19/gallery/The-Approaching-Storm-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-</div></div>
-<p> </p>
-<h5>NFT info:</h5>
-<ul style="list-style-type: square;">
-<li>Mint type: <strong>1/1</strong></li>
-<li>Initial price: <strong>2 SOL</strong></li>
-<li>Marketplace: <strong>SolSea</strong></li>
-</ul>
-<p> </p>
-<p class="align-center"><a href="https://solsea.io/n/DNrhxb1HeRjTevJ7f9wfuKHqM9Crk62PrhfGYzFjppUZ/" target="_blank" rel="noopener noreferrer" class="btn">Visit Marketplace</a></p>
-<p> </p>
 <p> </p>
             ]]>
         </content>
