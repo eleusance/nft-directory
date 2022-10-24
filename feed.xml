@@ -3,12 +3,51 @@
     <title>eleusance - NFT Directory</title>
     <link href="https://nft.eleusance.io/feed.xml" rel="self" />
     <link href="https://nft.eleusance.io" />
-    <updated>2022-10-23T02:00:25+02:00</updated>
+    <updated>2022-10-24T12:16:04+02:00</updated>
     <author>
         <name>cndrm</name>
     </author>
     <id>https://nft.eleusance.io</id>
 
+    <entry>
+        <title>Forsaken Souls</title>
+        <author>
+            <name>cndrm</name>
+        </author>
+        <link href="https://nft.eleusance.io/forsaken-souls.html"/>
+        <id>https://nft.eleusance.io/forsaken-souls.html</id>
+            <category term="Solana"/>
+
+        <updated>2022-10-24T12:16:04+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nft.eleusance.io/media/posts/6/Forsaken-Souls.jpg" alt="" />
+                    A world where both god and rules have abandoned, leaving people to survive like animals. Visit Marketplace
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nft.eleusance.io/media/posts/6/Forsaken-Souls.jpg" alt="" />
+                <blockquote>
+<p>A world where both god and rules have abandoned, leaving people to survive like animals.</p>
+</blockquote>
+<p> </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://nft.eleusance.io/media/posts/6/gallery/Forsaken-Souls.jpg" data-size="3072x3072"><img loading="lazy" src="https://nft.eleusance.io/media/posts/6/gallery/Forsaken-Souls-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+</div></div>
+<p> </p>
+<h5>NFT info:</h5>
+<ul style="list-style-type: square;">
+<li>Mint type: <strong>1/1</strong></li>
+<li>Initial price: <strong>2.5 SOL</strong></li>
+<li>Marketplace: <strong>SolSea</strong></li>
+</ul>
+<p> </p>
+<p class="align-center"><a href="https://solsea.io/n/6dxzh1tanjmPxvA7pfXixgUzcyTAGc8poviocenc1J36/" target="_blank" rel="noopener noreferrer" class="btn">Visit Marketplace</a></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>March of the Damned</title>
         <author>
@@ -18,7 +57,7 @@
         <id>https://nft.eleusance.io/march-of-the-damned.html</id>
             <category term="Solana"/>
 
-        <updated>2022-10-23T02:00:25+02:00</updated>
+        <updated>2022-10-24T12:09:05+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nft.eleusance.io/media/posts/5/March-of-the-Damned.jpg" alt="" />
@@ -28,12 +67,13 @@
         <content type="html">
             <![CDATA[
                     <img src="https://nft.eleusance.io/media/posts/5/March-of-the-Damned.jpg" alt="" />
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://nft.eleusance.io/media/posts/5/gallery/March-of-the-Damned.jpg" data-size="3072x3072"><img loading="lazy" src="https://nft.eleusance.io/media/posts/5/gallery/March-of-the-Damned-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-</div></div>
-<blockquote>
+                <blockquote>
 <p>Sinners walking toward damnation after judgment.</p>
 </blockquote>
+<p> </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://nft.eleusance.io/media/posts/5/gallery/March-of-the-Damned.jpg" data-size="3072x3072"><img loading="lazy" src="https://nft.eleusance.io/media/posts/5/gallery/March-of-the-Damned-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+</div></div>
 <p> </p>
 <h5>NFT info:</h5>
 <ul style="list-style-type: square;">
@@ -43,6 +83,7 @@
 </ul>
 <p> </p>
 <p class="align-center"><a href="https://solsea.io/n/8zgkSdi96DC1rVmxWYf6k4joBvbeCBzfcZBfAN57GBej/" target="_blank" rel="noopener noreferrer" class="btn">Visit Marketplace</a></p>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -55,7 +96,7 @@
         <id>https://nft.eleusance.io/night-terror.html</id>
             <category term="Solana"/>
 
-        <updated>2022-10-23T01:53:34+02:00</updated>
+        <updated>2022-10-24T12:10:57+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nft.eleusance.io/media/posts/4/Night-Terror.jpg" alt="" />
@@ -65,12 +106,13 @@
         <content type="html">
             <![CDATA[
                     <img src="https://nft.eleusance.io/media/posts/4/Night-Terror.jpg" alt="" />
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://nft.eleusance.io/media/posts/4/gallery/Night-Terror.jpg" data-size="3072x3072"><img loading="lazy" src="https://nft.eleusance.io/media/posts/4/gallery/Night-Terror-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-</div></div>
-<blockquote>
+                <blockquote>
 <p>Are you afraid of what is lurking in the dark late at night?<br>Better rush home and don't look back.</p>
 </blockquote>
+<h5> </h5>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://nft.eleusance.io/media/posts/4/gallery/Night-Terror.jpg" data-size="3072x3072"><img loading="lazy" src="https://nft.eleusance.io/media/posts/4/gallery/Night-Terror-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+</div></div>
 <h5> </h5>
 <h5>NFT info:</h5>
 <ul style="list-style-type: square;">
@@ -80,6 +122,7 @@
 </ul>
 <p> </p>
 <p class="align-center"><a href="https://solsea.io/n/4qft9gNpevkWemBwwGKaab7i6Ez8Bdd9YUTUZGpZ2gxh/" target="_blank" rel="noopener noreferrer" class="btn">Visit Marketplace</a></p>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -92,7 +135,7 @@
         <id>https://nft.eleusance.io/relaxing-break.html</id>
             <category term="Solana"/>
 
-        <updated>2022-10-23T01:36:57+02:00</updated>
+        <updated>2022-10-24T12:11:04+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nft.eleusance.io/media/posts/3/Relaxing-Break.jpg" alt="" />
@@ -102,12 +145,13 @@
         <content type="html">
             <![CDATA[
                     <img src="https://nft.eleusance.io/media/posts/3/Relaxing-Break.jpg" alt="" />
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://nft.eleusance.io/media/posts/3/gallery/Relaxing-Break.jpg" data-size="3072x3072"><img loading="lazy" src="https://nft.eleusance.io/media/posts/3/gallery/Relaxing-Break-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-</div></div>
-<blockquote>
+                <blockquote>
 <p>Just a relaxing break..</p>
 </blockquote>
+<p> </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://nft.eleusance.io/media/posts/3/gallery/Relaxing-Break.jpg" data-size="3072x3072"><img loading="lazy" src="https://nft.eleusance.io/media/posts/3/gallery/Relaxing-Break-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+</div></div>
 <p> </p>
 <h5>NFT Info:</h5>
 <ul style="list-style-type: square;">
@@ -117,6 +161,7 @@
 </ul>
 <p> </p>
 <p class="align-center"><a href="https://solsea.io/n/FiqaoCwGxaiKpQpqv3k9X2iE6NwSrYa2MnNoKzH9Jr7z/" target="_blank" rel="noopener noreferrer" class="btn">Visit Marketplace</a></p>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -129,7 +174,7 @@
         <id>https://nft.eleusance.io/the-gates-of-hell.html</id>
             <category term="Solana"/>
 
-        <updated>2022-10-23T01:35:26+02:00</updated>
+        <updated>2022-10-24T12:11:28+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nft.eleusance.io/media/posts/2/The-Gates-of-Hell.jpg" alt="" />
@@ -139,12 +184,13 @@
         <content type="html">
             <![CDATA[
                     <img src="https://nft.eleusance.io/media/posts/2/The-Gates-of-Hell.jpg" alt="" />
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://nft.eleusance.io/media/posts/2/gallery/The-Gates-of-Hell.jpg" data-size="6144x3584"><img loading="lazy" src="https://nft.eleusance.io/media/posts/2/gallery/The-Gates-of-Hell-thumbnail.jpg" alt="" width="768" height="448"></a></figure>
-</div></div>
-<blockquote>
+                <blockquote>
 <p>Sinners entering through the gates and finally arriving at damnation to be tormented for their sins.</p>
 </blockquote>
+<p> </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://nft.eleusance.io/media/posts/2/gallery/The-Gates-of-Hell.jpg" data-size="6144x3584"><img loading="lazy" src="https://nft.eleusance.io/media/posts/2/gallery/The-Gates-of-Hell-thumbnail.jpg" alt="" width="768" height="448"></a></figure>
+</div></div>
 <h5> </h5>
 <h5>NFT Info:</h5>
 <ul style="list-style-type: square;">
@@ -154,6 +200,7 @@
 </ul>
 <p> </p>
 <p class="align-center"><a href="https://solsea.io/n/F6t8s34XKxgkrrCCSsChBTHLZQXNvTZLAY7iKLNhuMv8/" target="_blank" rel="noopener noreferrer" class="btn">Visit Marketplace</a></p>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -166,17 +213,26 @@
         <id>https://nft.eleusance.io/valley-of-the-forgotten.html</id>
             <category term="Solana"/>
 
-        <updated>2022-10-23T01:46:06+02:00</updated>
+        <updated>2022-10-24T12:12:09+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nft.eleusance.io/media/posts/1/Valley-of-The-Forgotten.jpg" alt="" />
-                    A place where the forgotten by time roam. Shadow Blade NFT Info: Mint type: 1/1 Initial price: 2.5 SOLMarketplace:&nbsp;SolSea Visit&hellip;
+                    A place where the forgotten by time roam. Shadow Blade Visit Marketplace
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://nft.eleusance.io/media/posts/1/Valley-of-The-Forgotten.jpg" alt="" />
                 
+    <figure class="blockquote">
+      <blockquote>A place where the forgotten by time roam.</blockquote>
+      <figcaption>Shadow Blade</figcaption>
+    </figure>
+
+  <p>
+    
+  </p>
+
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
@@ -188,10 +244,9 @@
     </div>
   </div>
 
-    <figure class="blockquote">
-      <blockquote>A place where the forgotten by time roam.</blockquote>
-      <figcaption>Shadow Blade</figcaption>
-    </figure>
+  <p>
+    
+  </p>
 
     <h5 id="nft-info">
       NFT Info:
@@ -206,6 +261,10 @@
   </p>
 <div><p class="align-center"><a href="https://solsea.io/n/F6t8s34XKxgkrrCCSsChBTHLZQXNvTZLAY7iKLNhuMv8/" target="_blank" rel="noopener noreferrer" class="btn">Visit Marketplace</a></p>
 </div>
+
+  <p>
+    
+  </p>
             ]]>
         </content>
     </entry>
