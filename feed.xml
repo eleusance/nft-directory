@@ -3,12 +3,51 @@
     <title>eleusance - NFT Directory</title>
     <link href="https://nft.eleusance.io/feed.xml" rel="self" />
     <link href="https://nft.eleusance.io" />
-    <updated>2022-10-24T22:19:15+02:00</updated>
+    <updated>2022-10-25T12:06:15+02:00</updated>
     <author>
         <name>cndrm</name>
     </author>
     <id>https://nft.eleusance.io</id>
 
+    <entry>
+        <title>The Hare</title>
+        <author>
+            <name>cndrm</name>
+        </author>
+        <link href="https://nft.eleusance.io/the-hare.html"/>
+        <id>https://nft.eleusance.io/the-hare.html</id>
+            <category term="Binance Smart Chain"/>
+
+        <updated>2022-10-25T12:06:15+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nft.eleusance.io/media/posts/30/The-Hare.jpg" alt="" />
+                    Just a black rabbit peering deep into your soul, making you feel weird if you stare at it for too&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nft.eleusance.io/media/posts/30/The-Hare.jpg" alt="" />
+                <blockquote>
+<p>Just a black rabbit peering deep into your soul, making you feel weird if you stare at it for too long..</p>
+</blockquote>
+<p> </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://nft.eleusance.io/media/posts/30/gallery/The-Hare.jpg" data-size="2048x2048"><img loading="lazy" src="https://nft.eleusance.io/media/posts/30/gallery/The-Hare-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+</div></div>
+<p> </p>
+<p>NFT info:</p>
+<ul style="list-style-type: square;">
+<li>Mint type: <strong>1/1</strong></li>
+<li>Initial price: <strong>8680 GLMS</strong></li>
+<li>Marketplace: <strong>Glimpse</strong></li>
+</ul>
+<p> </p>
+<p class="align-center"><a href="https://www.glimpsenft.com/nfts/6357b10e38fc120013f9d009" target="_blank" rel="noopener noreferrer" class="btn">Visit Marketplace</a></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Starry Heavens</title>
         <author>
@@ -357,45 +396,6 @@
 </ul>
 <p> </p>
 <p class="align-center"><a href="https://solsea.io/n/C7xNABJzF9orpjgEaQTXJ24EgVg9GGGkpzf5y5rxpHQ/" target="_blank" rel="noopener noreferrer" class="btn">Visit Marketplace</a></p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Mysterious Beach</title>
-        <author>
-            <name>cndrm</name>
-        </author>
-        <link href="https://nft.eleusance.io/mysterious-beach.html"/>
-        <id>https://nft.eleusance.io/mysterious-beach.html</id>
-            <category term="Solana"/>
-
-        <updated>2022-10-24T16:07:55+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://nft.eleusance.io/media/posts/20/Mysterious-Beach.jpg" alt="" />
-                    Visit Marketplace
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://nft.eleusance.io/media/posts/20/Mysterious-Beach.jpg" alt="" />
-                <blockquote>
-<p> </p>
-</blockquote>
-<p> </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://nft.eleusance.io/media/posts/20/gallery/Mysterious-Beach.jpg" data-size="2304x1536"><img loading="lazy" src="https://nft.eleusance.io/media/posts/20/gallery/Mysterious-Beach-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-</div></div>
-<p> </p>
-<h5>NFT info:</h5>
-<ul style="list-style-type: square;">
-<li>Mint type: <strong>1/1</strong></li>
-<li>Initial price: <strong>2 SOL</strong></li>
-<li>Marketplace: <strong>SolSea</strong></li>
-</ul>
-<p> </p>
-<p class="align-center"><a href="https://solsea.io/n/3x4TCYEg8T375VQHjXcvj6rbTyDbMHzsoUBsYV6Ldnvn/" target="_blank" rel="noopener noreferrer" class="btn">Visit Marketplace</a></p>
 <p> </p>
             ]]>
         </content>
