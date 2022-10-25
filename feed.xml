@@ -3,12 +3,51 @@
     <title>eleusance - NFT Directory</title>
     <link href="https://nft.eleusance.io/feed.xml" rel="self" />
     <link href="https://nft.eleusance.io" />
-    <updated>2022-10-25T12:06:15+02:00</updated>
+    <updated>2022-10-25T19:53:54+02:00</updated>
     <author>
         <name>cndrm</name>
     </author>
     <id>https://nft.eleusance.io</id>
 
+    <entry>
+        <title>Big Bang</title>
+        <author>
+            <name>cndrm</name>
+        </author>
+        <link href="https://nft.eleusance.io/big-bang.html"/>
+        <id>https://nft.eleusance.io/big-bang.html</id>
+            <category term="Binance Smart Chain"/>
+
+        <updated>2022-10-25T19:53:46+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nft.eleusance.io/media/posts/31/Big-bang.jpg" alt="" />
+                    Big Bang in space.. Visit Marketplace
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nft.eleusance.io/media/posts/31/Big-bang.jpg" alt="" />
+                <blockquote>
+<p>Big Bang in space..</p>
+</blockquote>
+<p> </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://nft.eleusance.io/media/posts/31/gallery/Big-bang.jpg" data-size="1024x1024"><img loading="lazy" src="https://nft.eleusance.io/media/posts/31/gallery/Big-bang-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+</div></div>
+<p> </p>
+<h5>NFT info:</h5>
+<ul style="list-style-type: square;">
+<li>Mint type: <strong>1/1</strong></li>
+<li>Initial price: <strong>3700 GLMS</strong></li>
+<li>Marketplace: <strong>Glimpse</strong></li>
+</ul>
+<p> </p>
+<p class="align-center"><a href="https://www.glimpsenft.com/nfts/6358220738fc120013f9e3f1" target="_blank" rel="noopener noreferrer" class="btn">Visit Marketplace</a></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Hare</title>
         <author>
@@ -18,7 +57,7 @@
         <id>https://nft.eleusance.io/the-hare.html</id>
             <category term="Binance Smart Chain"/>
 
-        <updated>2022-10-25T12:06:15+02:00</updated>
+        <updated>2022-10-25T19:53:54+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nft.eleusance.io/media/posts/30/The-Hare.jpg" alt="" />
@@ -357,45 +396,6 @@
 </ul>
 <p> </p>
 <p class="align-center"><a href="https://solsea.io/n/FdU6XZ7LUXeX77qFZYZJM1D8oejHqZCd8T2hwqZLFfzD/" target="_blank" rel="noopener noreferrer" class="btn">Visit Marketplace</a></p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Little Hut on a Hill</title>
-        <author>
-            <name>cndrm</name>
-        </author>
-        <link href="https://nft.eleusance.io/little-hut-on-a-hill.html"/>
-        <id>https://nft.eleusance.io/little-hut-on-a-hill.html</id>
-            <category term="Solana"/>
-
-        <updated>2022-10-24T16:10:10+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://nft.eleusance.io/media/posts/21/Little-Hut-on-a-Hill.jpg" alt="" />
-                    This is my hide-away, to escape from the stress of the world Visit Marketplace
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://nft.eleusance.io/media/posts/21/Little-Hut-on-a-Hill.jpg" alt="" />
-                <blockquote>
-<p>This is my hide-away, to escape from the stress of the world</p>
-</blockquote>
-<p> </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://nft.eleusance.io/media/posts/21/gallery/Little-Hut-on-a-Hill.jpg" data-size="1536x1536"><img loading="lazy" src="https://nft.eleusance.io/media/posts/21/gallery/Little-Hut-on-a-Hill-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-</div></div>
-<p> </p>
-<h5>NFT info:</h5>
-<ul style="list-style-type: square;">
-<li>Mint type: <strong>1/1</strong></li>
-<li>Initial price: <strong>2 SOL</strong></li>
-<li>Marketplace:<strong> SolSea</strong></li>
-</ul>
-<p> </p>
-<p class="align-center"><a href="https://solsea.io/n/C7xNABJzF9orpjgEaQTXJ24EgVg9GGGkpzf5y5rxpHQ/" target="_blank" rel="noopener noreferrer" class="btn">Visit Marketplace</a></p>
 <p> </p>
             ]]>
         </content>
